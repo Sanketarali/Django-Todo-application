@@ -11,3 +11,14 @@ Mark as Completed/Incomplete: Tasks can be marked as completed or incomplete.<br
 Django: Python web framework for building the application.<br>
 Bootstrap 4: Frontend framework for styling.<br>
 SQLite: Default database used by Django for storing tasks.<br>
+
+# Project Setup
+<h3>Prerequisites</h3>
+Make sure you have the following installed:
+
+Python (3.6 or higher)<br>
+Django (3.0 or higher)<br>
+
+# Installation
+Clone the repository:<br>
+git clone<br>
